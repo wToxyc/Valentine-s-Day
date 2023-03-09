@@ -11,9 +11,7 @@ fillcolor("red")
 begin_fill()
 
 def curve():
-
     for i in range(200):
-
         right(1)
         forward(1)
 
